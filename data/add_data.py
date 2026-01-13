@@ -3,8 +3,8 @@ import os
 import glob
 
 # Configuration
-MASTER_FILE = 'telecom_churn.csv'
-NEW_DATA_FOLDER = 'new_data/'  # Create this folder!
+MASTER_FILE = '/Users/khoale/Desktop/Customer-Churn-Project/data/telecom_churn.csv'
+NEW_DATA_FOLDER = '/Users/khoale/Desktop/Customer-Churn-Project/data/new_data'  # Create this folder!
 
 def ingest_new_data():
     # 1. Find all CSV files in the incoming folder
