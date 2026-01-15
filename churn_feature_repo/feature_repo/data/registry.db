@@ -1,0 +1,31 @@
+
+r
+R
+customer_id Customer ID for churn prediction"customer_idJchurn_feature_repo
+Ó¥ËèşóÓ¥Ëèşó
+I
+)
+__dummy"
+__dummy_idJchurn_feature_repo
+Ó¥Ë ÷Ó¥Ëèìù1"$124cffb3-2d7c-4a6c-8c8a-e7a9e80d7af6*£Ó¥Ëø´äƒ2â
+©
+churn_featureschurn_feature_repocustomer_id"
+AccountWeeks"
+ContractRenewal"
+DataPlan"
+	DataUsage"
+CustServCalls"
+DayMins"
+DayCalls"
+MonthlyCharge"
+
+OverageFee"
+RoamMins"
+MinsPerDayCall"
+UnderusingData2€ç„:event_timestampZ#!data/processed_churn_data.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢!data/processed_churn_data.parquet@b
+customer_id4
+Ó¥Ëˆ¼ê£Ó¥ËÑØƒ
+£ì ¼à¸„ŞàÆ¥Ëb¥event_timestampZ#!data/processed_churn_data.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢!data/processed_churn_data.parquetªchurn_feature_repoŠ4
+
+churn_feature_repo
+Ó¥Ëø× €Ó¥Ëø× €
